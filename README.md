@@ -1,8 +1,8 @@
 <h1 align="center">
   <img alt="cgapp logo" src="https://i.ibb.co/SstRMzY/zee5-logo.png" width="224px"/><br/>
-  ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/Zee5/main/Zee5">Zee5</a> ⭐️
+  ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/Zee5/main/Zee5.m3u">Zee5</a> ⭐️
 </h1>
-<p align="center">An <a href="https://raw.githubusercontent.com/sabbiriptv/Zee5/main/Zee5">M3U</a> File Containing <b>Free</b> Streamable Links</p>
+<p align="center">An <a href="https://raw.githubusercontent.com/sabbiriptv/Zee5/main/Zee5.m3u">M3U</a> File Containing <b>Free</b> Streamable Links</p>
 
 # ▶️ How To Play:
 
