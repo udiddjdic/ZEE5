@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="cgapp logo" src="https://i.ibb.co/SstRMzY/zee5-logo.png" width="224px"/><br/>
+  <img alt="cgapp logo" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" width="224px"/><br/>
   ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/Zee5/main/Zee5.m3u">Zee5</a> ⭐️
 </h1>
 <p align="center">An <a href="https://raw.githubusercontent.com/sabbiriptv/Zee5/main/Zee5.m3u">M3U</a> File Containing <b>Free</b> Streamable Links</p>
