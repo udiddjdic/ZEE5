@@ -40,6 +40,5 @@
 🚨 Zee5 Now Has Our Own SERVER 🔥 <br>
 🚨 I Have An Exam Soon, Wish Me Best Of Luck 💗
 
-I Have An Exam Soon, Wish Me Best Of Luck 💗
 # 💛 Contact Me:
 <a href="mailto:sabbirhasan10000bd@gmail.com"><img src="https://img.shields.io/badge/Email-sabbirhasan10000bd@gmail.com-teal?style=for-the-badge&logo=gmail" /></a>
