@@ -37,7 +37,7 @@
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
 # 📘 Note:
-🚨 Use Backup Server If Main Server Doesn't Work
+🚨 Zee5 Now Has Our Own SERVER 🔥
 
 # 💛 Contact Me:
 <a href="mailto:sabbirhasan10000bd@gmail.com"><img src="https://img.shields.io/badge/Email-sabbirhasan10000bd@gmail.com-teal?style=for-the-badge&logo=gmail" /></a>
