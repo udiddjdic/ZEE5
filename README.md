@@ -38,6 +38,7 @@
 
 # 📘 Note:
 🚨 Zee5 Now Has Our Own SERVER 🔥 <br>
+🚨 My Free Quota For Railway Expired, So Shifted To Replit 🔥 <br>
 🚨 I Have An Exam Soon, Wish Me Best Of Luck 💗
 
 # 💛 Contact Me:
