@@ -36,9 +36,12 @@
 - [IPTV Smarters Pro](https://play.google.com/store/apps/details?id=com.nst.iptvsmarterstvbox&hl=en) - Media Player App For Android TV, Android Phone and Android Tab.
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
+# ❤️ Honorable Mention:
+Special Thanks To <strong>Aiman</strong> Sir, <br>
+He Contacted Me In Personal And Bought Me Hosting For <strong>1 Year</strong>
+
 # 📘 Note:
 🚨 Zee5 Now Has Our Own SERVER 🔥 <br>
-🚨 My Free Quota For Railway Expired, So Shifted To Replit 🔥 <br>
 🚨 I Have An Exam Soon, Wish Me Best Of Luck 💗
 
 # 💛 Contact Me:
