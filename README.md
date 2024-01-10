@@ -1,3 +1,8 @@
+<div align="center">
+  <h1>Join: <a href="https://t.me/realcodecrafters">CodeCrafters</a></h1>
+  <h1>⚠️ This project is no longer maintained ⚠️</h1>
+</div>
+
 <h1 align="center">
   <img alt="cgapp logo" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" width="224px"/><br/>
   ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/Zee5/main/Zee5.m3u">Zee5</a> ⭐️
@@ -36,13 +41,10 @@
 - [IPTV Smarters Pro](https://play.google.com/store/apps/details?id=com.nst.iptvsmarterstvbox&hl=en) - Media Player App For Android TV, Android Phone and Android Tab.
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
-# ❤️ Honorable Mention:
-Special Thanks To <strong>Aiman</strong> Sir, <br>
-He Contacted Me In Personal And Bought Me Hosting For <strong>1 Year</strong>
-
 # 📘 Note:
-🚨 Zee5 Now Has Our Own SERVER 🔥 <br>
-🚨 I Have An Exam Soon, Wish Me Best Of Luck 💗
+🚨 This project is no longer maintained
 
 # 💛 Contact Me:
-<a href="mailto:sabbirhasan10000bd@gmail.com"><img src="https://img.shields.io/badge/Email-sabbirhasan10000bd@gmail.com-teal?style=for-the-badge&logo=gmail" /></a>
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sab_bits)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/603268462940389401)
+[![email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sabbits@proton.me)
